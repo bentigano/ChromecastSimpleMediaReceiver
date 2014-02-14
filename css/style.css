@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.chromecast {
+    padding-top: 5px;
+}
+#thumb {
+    float: right;
+    width: 250px;
+}
